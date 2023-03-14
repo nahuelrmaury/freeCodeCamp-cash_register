@@ -1,0 +1,15 @@
+C:\Users\nahue\Desktop\Triangle Task T.I\Triangle Task T.I\bin\Debug\net6.0\Triangle Task T.I..exe
+C:\Users\nahue\Desktop\Triangle Task T.I\Triangle Task T.I\bin\Debug\net6.0\Triangle Task T.I..deps.json
+C:\Users\nahue\Desktop\Triangle Task T.I\Triangle Task T.I\bin\Debug\net6.0\Triangle Task T.I..runtimeconfig.json
+C:\Users\nahue\Desktop\Triangle Task T.I\Triangle Task T.I\bin\Debug\net6.0\Triangle Task T.I..dll
+C:\Users\nahue\Desktop\Triangle Task T.I\Triangle Task T.I\bin\Debug\net6.0\Triangle Task T.I..pdb
+C:\Users\nahue\Desktop\Triangle Task T.I\Triangle Task T.I\obj\Debug\net6.0\Triangle Task T.I..csproj.AssemblyReference.cache
+C:\Users\nahue\Desktop\Triangle Task T.I\Triangle Task T.I\obj\Debug\net6.0\Triangle Task T.I..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nahue\Desktop\Triangle Task T.I\Triangle Task T.I\obj\Debug\net6.0\Triangle Task T.I..AssemblyInfoInputs.cache
+C:\Users\nahue\Desktop\Triangle Task T.I\Triangle Task T.I\obj\Debug\net6.0\Triangle Task T.I..AssemblyInfo.cs
+C:\Users\nahue\Desktop\Triangle Task T.I\Triangle Task T.I\obj\Debug\net6.0\Triangle Task T.I..csproj.CoreCompileInputs.cache
+C:\Users\nahue\Desktop\Triangle Task T.I\Triangle Task T.I\obj\Debug\net6.0\Triangle Task T.I..dll
+C:\Users\nahue\Desktop\Triangle Task T.I\Triangle Task T.I\obj\Debug\net6.0\refint\Triangle Task T.I..dll
+C:\Users\nahue\Desktop\Triangle Task T.I\Triangle Task T.I\obj\Debug\net6.0\Triangle Task T.I..pdb
+C:\Users\nahue\Desktop\Triangle Task T.I\Triangle Task T.I\obj\Debug\net6.0\Triangle Task T.I..genruntimeconfig.cache
+C:\Users\nahue\Desktop\Triangle Task T.I\Triangle Task T.I\obj\Debug\net6.0\ref\Triangle Task T.I..dll
